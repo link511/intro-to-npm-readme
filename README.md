@@ -147,15 +147,15 @@ example:
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/learn-co-curriculum/intro-to-npm-readme.git"
+		"url": "git+https://github.com/FS-Academy-Xi/intro-to-npm-readme.git"
 	},
-	"author": "flatironschool",
+	"author": "Academy Xi",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/learn-co-curriculum/intro-to-npm-readme/issues"
+		"url": "https://github.com/FS-Academy-Xi/intro-to-npm-readme/issues"
 	},
 	"homepage":
-		"https://github.com/learn-co-curriculum/intro-to-npm-readme#readme"
+		"https://github.com/FS-Academy-Xi/intro-to-npm-readme#readme"
 }
 ```
 
